@@ -3,12 +3,12 @@
 <h1 align="center"> "Бегалка С#"</h1>
 <h2> Основное </h2>
 
-<li>Платформа:  <strong> ПК </strong></li>
-<li>Технологии: <strong>C# , MonoGame</strong></li>
-<li>Язык: <strong>Русский</strong></li>
-<li>Жанр: <strong>Бесконечный раннер 2D сайд-скроллер </strong></li>
-<li> Окружение: <strong> 21  век </strong></li>
-<li> Главная игровая механика: <strong> PermDeath </strong></li>
+<li>Платформа:  <strong> <code>ПК</code> </strong></li>
+<li>Технологии: <strong><code>C# , MonoGame</code></strong></li>
+<li>Язык: <strong><code>Русский</code></strong></li>
+<li>Жанр: <strong><code>Бесконечный раннер 2D сайд-скроллер</code> </strong></li>
+<li> Окружение: <strong><code>среднивековая Япония</code> </strong></li>
+<li> Главная игровая механика: <strong><code> PermDeath </code> </strong></li>
 
 <h2> Суть игры </h2>
 Попробуй пробежать как можно дальше!!!
