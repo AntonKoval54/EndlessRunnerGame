@@ -26,3 +26,8 @@
   <li> счетчик прогресса </li>
   <li> смена дня и ночи </li>
 </ul>
+
+<h2> Предположительный внешний вид </h2>
+<p align="center">
+<img  src="https://github.com/AntonKoval54/EndlessRunnerGame/blob/main/spraitresult!11.png"  width="350" alt="Calculate-BMI-and-risk-category"/>
+</p>
